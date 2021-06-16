@@ -1,5 +1,5 @@
 var myList = [
-    {"Added": "","Username": "","Reason": "","Duration": ""}
+    {"Added": "6-16-2021","Username": "Gollem","Reason": "Requested","Duration": "Forever"}
   ];
   
   function buildHtmlTable(selector) {
