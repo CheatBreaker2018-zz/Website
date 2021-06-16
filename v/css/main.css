@@ -1773,9 +1773,9 @@ input[type="submit"]:hover {
   height: 100px;
 }
 .download .circle span {
-    background: #bdbdbd;
+    background: #c1c1c1;
   /* background: #4d8bc7; */
-  box-shadow: 0 0 0 1px #bdbdbd inset;
+  box-shadow: 0 0 0 1px #c1c1c1 inset;
   /* box-shadow: 0 0 0 1px #6898c6 inset; */
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1794,7 +1794,7 @@ input[type="submit"]:hover {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  border: 1px solid #bdbdbd;
+  border: 1px solid #c1c1c1;
   /* border: 1px solid #4e6f8f; */
   width: 88px;
   height: 88px;
