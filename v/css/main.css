@@ -1773,10 +1773,10 @@ input[type="submit"]:hover {
   height: 100px;
 }
 .download .circle span {
-    background: #c1c1c1;
-  /* background: #4d8bc7; */
-  box-shadow: 0 0 0 1px #c1c1c1 inset;
-  /* box-shadow: 0 0 0 1px #6898c6 inset; */
+    /* background: #c1c1c1; */
+  background: #4d8bc7;
+  /* box-shadow: 0 0 0 1px #c1c1c1 inset; */
+  box-shadow: 0 0 0 1px #6898c6 inset;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
