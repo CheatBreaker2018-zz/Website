@@ -1,5 +1,14 @@
 {
     "ranks": {
+        "ArcaneCC": {
+            "rank": "owner"
+        },
+        "Serversided": {
+            "rank": "owner"
+        },
+        "Fxmous": {
+            "rank": "owner"
+        },
         "acceptfull": {
             "rank": "staff"
         },
@@ -26,6 +35,48 @@
         },
         "Sequos": {
             "rank": "staff"
+        },
+        "egirldeadedit": {
+            "rank": "partner"
+        },
+        "wtfCelestial": {
+            "rank": "partner"
+        },
+        "slago": {
+            "rank": "media"
+        },
+        "JayHCF": {
+            "rank": "media"
+        },
+        "QualityPhoto": {
+            "rank": "media"
+        },        
+        "EmiraBlight": {
+            "rank": "media"
+        },
+        "ignZixxx": {
+            "rank": "media"
+        },
+        "B0XIN": {
+            "rank": "media"
+        },
+        "zSapL0L": {
+            "rank": "media"
+        },
+        "FarRainbow05": {
+            "rank": "media"
+        },
+        "KingUltra": {
+            "rank": "media"
+        },
+        "Customiz": {
+            "rank": "media"
+        },
+        "Shloomy_": {
+            "rank": "twitch"
+        },
+        "GANGMEMBERDAFFIN": {
+            "rank": "twitch"
         }
     }
 }
