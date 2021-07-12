@@ -1,5 +1,6 @@
 {
   "remaster" : "4b08349c7a7f28438dbbf57364f6fe117ce4dc61",
   "legacy" : "85964af99d857227ced7bae8a6cffbf33b37a4f0",
-  "launcher" : "47eb324dc7fa8b769a9b8906541cccf7317d40a0"
+  "launcher" : "47eb324dc7fa8b769a9b8906541cccf7317d40a0",
+  "launcher-linux" : "null"
 }
