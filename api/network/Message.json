@@ -1,11 +1,13 @@
 {
-  
- "Client Channel": {
-    "CBChannel": "CBTest-Client"
- },
-  
- "Binary Channel": {
-  "CBBinaryChannel": "CBTest-Binary" 
- }
-  
+	"channels": {
+    
+		"Client Channel": {
+			"CBChannel": "CBTest-Client"
+		},
+
+		"Binary Channel": {
+			"CBBinaryChannel": "CBTest-Binary"
+		}
+    
+	}
 }
