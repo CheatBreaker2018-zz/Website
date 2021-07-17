@@ -1,12 +1,8 @@
 {
 	"channels": {
     
-		"Client Channel": {
-			"CBChannel": "CBTest-Client"
-		},
-
-		"Binary Channel": {
-			"CBBinaryChannel": "CBTest-Binary"
+		"CBTest-Client": {
+			"ClientChannel": "enabled"
 		}
     
 	}
