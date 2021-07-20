@@ -1,4 +1,5 @@
 var myList = [
+   {"Added": "7-19-2021","Username": "NotURGodMother ","Reason": "Cheating","Duration": "Forever"},
    {"Added": "7-19-2021","Username": "Wyliee ","Reason": "Cheating","Duration": "Forever"},
    {"Added": "6-16-2021","Username": "ANALKICKER ","Reason": "Cheating","Duration": "Forever"},
    {"Added": "6-16-2021","Username": "Kitharae ","Reason": "Cheating","Duration": "Forever"},
