@@ -1,0 +1,18 @@
+{
+	"friends": {
+		"ArcaneCC": {
+			"FriendStatus": "busy",
+			"Status": "In Game: ",
+			"Server": "syncpvp.net",
+			"Rank": "Owner"
+		},
+		"Tellinq": {
+			"FriendStatus": "online",
+			"Status": "In Game: ",
+			"Server": "kirah.cf",
+			"Rank": "Owner"
+		}
+	},
+
+	"TotalFriends": "4"
+}
