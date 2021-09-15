@@ -1716,7 +1716,6 @@ input[type="submit"]:hover {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
   font-size: 26px;
   padding: 10px;
-  filter: brightness(0) invert(1);
 }
 .main-block .main-block-holder img {
   width: 99px;
