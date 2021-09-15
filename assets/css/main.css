@@ -1391,7 +1391,7 @@ pre code {
   color: #fff;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
   letter-spacing: 0.5px;
-  filter: grayscale(100%);
+  filter: brightness(0) invert(1);
 }
 .logo a {
   color: #fff;
@@ -1716,14 +1716,14 @@ input[type="submit"]:hover {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
   font-size: 26px;
   padding: 10px;
-  filter: grayscale(100%);
+  filter: brightness(0) invert(1);
 }
 .main-block .main-block-holder img {
   width: 99px;
   height: auto;
   display: block;
   margin: 0 auto 8px;
-  filter: grayscale(100%);
+  filter: brightness(0) invert(1);
 }
 .main-block h1 {
   font-size: 49px;
