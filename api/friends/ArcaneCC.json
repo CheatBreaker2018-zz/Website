@@ -3,25 +3,10 @@
     "Serversided": {
       "FriendStatus": "busy",
       "Status": "In Game: ",
-      "Server": "syncpvp.net",
+      "Server": "cavepvp.org",
       "Rank" : "Owner"
-    },
-    "98ping": {
-      "FriendStatus": "online",
-      "Status": "In Game: ",
-      "Server": "kirah.cf"
-    },
-    "Fleshyyy": {
-      "FriendStatus": "online",
-      "Status": "In Game: ",
-      "Server": "kirah.cf"
-    },
-    "Zaqhy": {
-      "FriendStatus": "away",
-      "Status": "In Game: ",
-      "Server": "syncpvp.net"
     }
   },
 
-  "TotalFriends" : "4"
+  "TotalFriends" : "1"
 }
