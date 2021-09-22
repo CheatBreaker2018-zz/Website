@@ -1,17 +1,17 @@
 {
-  "friends": {
-    "Serversided": {
-      "FriendStatus": "busy",
-      "Status": "In Game: ",
-      "Server": "cavepvp.org",
-      "Rank" : "Owner"
-    },
-    "iPacks": {
-      "FriendStatus": "busy",
-      "Status": "In Game: ",
-      "Server": "minemen.club",
-    }
-  },
+	"friends": {
+		"Serversided": {
+			"FriendStatus": "busy",
+			"Status": "In Game: ",
+			"Server": "cavepvp.org",
+			"Rank": "Owner"
+		},
+		"iPacks": {
+			"FriendStatus": "busy",
+			"Status": "In Game: ",
+			"Server": "minemen.club"
+		}
+	},
 
-  "TotalFriends" : "2"
+	"TotalFriends": "2"
 }
