@@ -5,8 +5,13 @@
       "Status": "In Game: ",
       "Server": "cavepvp.org",
       "Rank" : "Owner"
+    },
+    "iPacks": {
+      "FriendStatus": "busy",
+      "Status": "In Game: ",
+      "Server": "minemen.club",
     }
   },
 
-  "TotalFriends" : "1"
+  "TotalFriends" : "2"
 }
