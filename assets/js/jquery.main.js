@@ -6,24 +6,3 @@ function addRule(media,rule){var $styleTag=styleRules[media];var styleTagData;va
 if(!$styleTag){styleRules[media]=$('<style>').text(rules).appendTo('head');}else{styleTagData=$styleTag.text();styleTagData=styleTagData.substring(0,styleTagData.length-2)+' }'+rule+'}';$styleTag.text(styleTagData);}}
 $.fn.retinaCover=function(){return this.each(function(){var $block=$(this);var $items=$block.children('[data-srcset]');var id='bg-stretch'+Date.now()+(Math.random()*1000).toFixed(0);if($items.length){$block.attr('id',id);$items.each(function(){var $item=$(this);var data=$item.data('srcset').split(', ');var media=$item.data('media')||'default';var dataLength=data.length;var itemData;var i;for(i=0;i<dataLength;i++){itemData=data[i].split(' ');if(itemData.length===1){addSimple(itemData[0],media,id);}else{addRetina(itemData,media,id);}}});}
 $items.detach();});};}(jQuery));
-/*
-     FILE ARCHIVED ON 00:35:28 Jul 22, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 18:53:14 Feb 10, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  esindex: 0.012
-  CDXLines.iter: 14.132 (3)
-  LoadShardBlock: 348.268 (3)
-  exclusion.robots.policy: 0.127
-  captures_list: 367.808
-  RedisCDXSource: 2.124
-  PetaboxLoader3.datanode: 385.802 (5)
-  PetaboxLoader3.resolve: 177.959 (2)
-  exclusion.robots: 0.137
-  load_resource: 297.571
-*/
