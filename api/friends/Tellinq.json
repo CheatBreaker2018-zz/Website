@@ -1,0 +1,18 @@
+{
+	"friends": {
+		"ArcaneCC": {
+			"FriendStatus": "busy",
+			"Status": "In Game: ",
+			"Server": "minehq.com",
+			"Rank": "Owner"
+		},
+		"Jegox": {
+			"FriendStatus": "online",
+			"Status": "In Game: ",
+			"Server": "kohi.us",
+			"Rank": "Owner"
+		}
+	},
+
+	"TotalFriends": "2"
+}
