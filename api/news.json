@@ -1,7 +1,7 @@
 {
-  "title": "Welcome to CheatBreaker+",
+  "title": "Log4J Security Patch",
   "icon": "ArcaneCC",
   "author": "ArcaneCC",
-  "date": "14 SEPTEMBER 2021",
-  "content": "Welcome to CheatBreaker+! We've updated everything since we've launched our major launcher update that adds Microsoft & Mojang Account login support. With this, the issue that stood before with account issues should be resolved, if you have any further standing account issues, login using the CheatBreaker launcher. We've been hard at work on the client recently and we appreciate the support we've been receiving from you guys. We're excited for the release of 1.8.9, and we're almost ready. <br> <br> <b>Stay tuned.</b> <br> <br><u><i>https://cheatbreakerplus.com/discord</i></u>"
+  "date": "10 DECEMBER 2021",
+  "content": "It's been a while since you last heard from us, but we're back. We've just pushed an update that fixes the infamous remote code execution exploit that has been affected by 1.7 and above of Vanilla Minecraft. Any client that has not fixed it should be considered unsafe to use. <b>CheatBreaker+ Services will be returning around Christmas time or soon after that as well.</b> I am the only one working on this project as of now, so keep that in mind. :)"
 }
